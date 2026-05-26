@@ -1,0 +1,3 @@
+issue_id,source_system,issue_type,issue_description,created_at
+I001,Hospital_API,Duplicate Patient,Duplicate patient_id P001,2026-05-25 04:56:21
+I002,Lab_JSON,Invalid DOB,Future DOB detected,2026-05-25 04:56:21
